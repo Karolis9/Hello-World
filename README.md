@@ -2,4 +2,4 @@
 Its my first project MJYEEZZZ
 
 
-Karolis här, jag väldigt intresserad i bilsystemsteknik där jag skulle jättegärna lära mer om och kunna utveckla tekniken i framtiden.
+Karolis här, jag är väldigt intresserad i bilsystemsteknik som hur det fungerar och hur allt är kopplat till varandra, där jag skulle jättegärna lära mer om och kunna utveckla tekniken i framtiden.
